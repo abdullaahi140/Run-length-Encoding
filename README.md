@@ -1,6 +1,6 @@
 # Playground Games Submission
 
-This repository is the submission for the engineering test given by Playground Game. The project compresses and decompresses files using Run-length Encoding. 
+This repository is the submission for the engineering test given by Playground Game and is also hosted on [GitHub](https://github.com/abdullaahi140/Run-length-Encoding). The project compresses and decompresses files using Run-length Encoding. 
 
 ## Compiling the project
 
